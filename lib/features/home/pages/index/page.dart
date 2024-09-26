@@ -1,8 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:ecommerce_eleven_grade/preferences/preferences.dart';
 
+import '../../models/product_model.dart';
+
 part 'sections/header_section.dart';
-part 'sections/content.dart';
+part 'sections/all_shoes.dart';
+part 'sections/running.dart';
+part 'sections/basketball.dart';
+part 'sections/football.dart';
+part 'sections/training.dart';
+
+
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
