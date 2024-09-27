@@ -1,6 +1,6 @@
-import 'package:ecommerce_eleven_grade/features/favorite/page.dart';
-import 'package:ecommerce_eleven_grade/features/message/page.dart';
-import 'package:ecommerce_eleven_grade/features/profile/page.dart';
+import 'package:ecommerce_eleven_grade/features/favorite/pages/index/page.dart';
+import 'package:ecommerce_eleven_grade/features/message/pages/index/page.dart';
+import 'package:ecommerce_eleven_grade/features/profile/pages/index/page.dart';
 import 'package:ecommerce_eleven_grade/features/home/pages/index/page.dart';
 
 import 'preferences/preferences.dart';
